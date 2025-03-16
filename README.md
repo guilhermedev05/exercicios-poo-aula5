@@ -102,10 +102,3 @@ Este repositório contém quatro exercícios práticos desenvolvidos em Java. Ca
 ## Contribuição
 
 Sinta-se à vontade para contribuir com melhorias, sugestões e correções. Para isso, abra um pull request ou uma issue.
-
----
-
-Feito com ❤ por [Seu Nome]
-```
-
-Este modelo de `README.md` contém as seções essenciais para que qualquer pessoa entenda rapidamente como os exercícios estão organizados, como executá-los e qual tecnologia foi utilizada. Basta copiar e colar no seu repositório.
